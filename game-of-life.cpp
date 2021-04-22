@@ -1,12 +1,10 @@
 ﻿// game-of-life.cpp : Defines the entry point for the application.
 //
 
-#include "game-of-life.h"
-
-using namespace std;
+#include "game-of-life.hpp"
 
 int main()
 {
-	cout << "Hello CMake." << endl;
+	std::cout << "Hello CMake." << std::endl;
 	return 0;
 }

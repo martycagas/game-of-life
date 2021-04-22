@@ -1,4 +1,4 @@
-﻿// game-of-life.h : Include file for standard system include files,
+﻿// game-of-life.hpp : Include file for standard system include files,
 // or project specific include files.
 
 #pragma once
