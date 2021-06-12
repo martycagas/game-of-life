@@ -6,16 +6,16 @@ AccessModifierOffset: -4
 NamespaceIndentation: All
 BreakBeforeBraces: Custom
 BraceWrapping:
-  AfterEnum: true
-  AfterStruct: true
-  AfterClass: true
-  SplitEmptyFunction: true
-  AfterControlStatement: false
-  AfterNamespace: true
-  AfterFunction: true
-  AfterUnion: true
-  AfterExternBlock: false
-  BeforeCatch: false
-  BeforeElse: true
-  SplitEmptyRecord: true
-  SplitEmptyNamespace: true
+    AfterEnum: true
+    AfterStruct: true
+    AfterClass: true
+    SplitEmptyFunction: true
+    AfterControlStatement: false
+    AfterNamespace: true
+    AfterFunction: true
+    AfterUnion: true
+    AfterExternBlock: false
+    BeforeCatch: false
+    BeforeElse: true
+    SplitEmptyRecord: true
+    SplitEmptyNamespace: true
