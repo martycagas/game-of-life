@@ -1,4 +1,4 @@
-﻿/**
+/**
  * @file    main.hpp
  * @author  Martin Cagas
  * @date    2021-06-10
