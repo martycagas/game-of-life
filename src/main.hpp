@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @file    main.hpp
  * @author  Martin Cagas
  * @date    2021-06-10
@@ -16,3 +16,7 @@
 #pragma once
 
 #include <iostream>
+
+#include "raylib.h"
+
+#include "game.hpp"
